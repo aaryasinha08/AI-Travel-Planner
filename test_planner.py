@@ -10,3 +10,4 @@ plan = generate_travel_plan(
 
 print("\n🧭 Travel Plan:\n")
 print(plan)
+
